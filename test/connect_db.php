@@ -1,6 +1,6 @@
 <?php 
 
-$dbc = @mysqli_connect ( 'http://lunalewis.co.uk/', 'mcredstone', '8Funlittle!', 'site_dbs' ) 
+$dbc = @mysqli_connect ( 'localhost', 'mcredstone', '8Funlittle!', 'site_dbs' ) 
 
 # Otherwise fail gracefully and explain the error.
 
