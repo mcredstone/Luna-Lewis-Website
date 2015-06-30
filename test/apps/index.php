@@ -7,6 +7,7 @@
     <a href="http://lunalewis.co.uk"><li>Home</li></a>
     <a href="http://lunalewis.co.uk/aboutme"><li>About Me!</li></a>
     <a href="http://lunalewis.co.uk/apps"><li>Our Apps</li></a>
+    <a href="https://github.com/mcredstone/Luna-Lewis-Website"><li>Source Code</li></a>
     </ul>
     <ul>
     <a href="http://lunalewis.co.uk/signup"><li>Sign Up</li></a>
